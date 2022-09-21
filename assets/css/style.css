@@ -1558,8 +1558,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-info img {
-  height: 40px;
-  margin-bottom: 10px;
+  height: 70px;
+  transform: translateY(-36%);
 }
 
 #footer .footer-top .footer-info p {
