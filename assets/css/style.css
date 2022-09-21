@@ -981,8 +981,12 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #venue .venue-info h3 {
   font-size: 36px;
-  font-weight: 700;
+  font-weight: 800;
   color: #fff;
+}
+
+#venue .venue-map h3 span {
+  color: #f82249;
 }
 
 @media (max-width: 574px) {
