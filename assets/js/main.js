@@ -208,3 +208,11 @@
   });
 
 })(jQuery);
+
+let typed = new Typed("#rootsn", {
+  strings: ["#rootSN"],
+  typeSpeed: 400,
+  backSpeed: 400,
+  showCursor: false,
+  loop: true
+});
