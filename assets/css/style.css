@@ -112,7 +112,7 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #f82249;
+  background: #3c58f4;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -647,11 +647,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #f82249;
+  border: 2px solid #3c58f4;
 }
 
 #intro .about-btn:hover {
-  background: #f82249;
+  background: #3c58f4;
   color: #fff;
 }
 
@@ -711,7 +711,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 36px;
   font-weight: bold;
   margin-bottom: 10px;
-  color: #f82249;
+  color: #3c58f4;
 }
 
 #about h3 {
@@ -719,7 +719,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 10px;
-  color: #f82249;
+  color: #3c58f4;
 }
 
 #about p {
