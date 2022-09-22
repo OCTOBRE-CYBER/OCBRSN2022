@@ -852,6 +852,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #0e1b4d;
   color: #fff;
   padding: 10px 60px;
+  margin: 5px;
 }
 
 @media (max-width: 991px) {
