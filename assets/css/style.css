@@ -543,6 +543,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro h1 span {
   color: #ffffff;
   background-color: #3c58f4;
+  text-transform: none;
+}
+
+#theme {
+  color: #3c58f4;
 }
 
 @media (max-width: 991px) {
