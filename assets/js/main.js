@@ -216,3 +216,12 @@ let typed = new Typed("#rootsn", {
   showCursor: false,
   loop: true
 });
+
+
+let typedOCBRSN = new Typed("#octobrecyber", {
+  strings: [`Octobre Cyber 2022 <br> #rootSN`],
+  typeSpeed: 100,
+  backSpeed: 100,
+  showCursor: false,
+  loop: true
+});
