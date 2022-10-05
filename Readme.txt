@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Mois de la Cyber Sécurité
+OCTOBRE CYBER 2022 BY rootSN
 
-Template Name: TheEvent
-Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+URL: https://octobrecyber-byrootsn.com/
