@@ -907,7 +907,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #schedule .schedule-item:hover {
   background-color: #fff;
-  transform: scale(1.04);
+  transform: scale(1.02);
 }
 
 #schedule .schedule-item time {
