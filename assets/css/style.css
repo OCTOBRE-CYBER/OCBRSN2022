@@ -319,26 +319,43 @@ h6 {
   width: 100%;
 }
 
-.nav-menu li.buy-tickets a {
+.nav-menu li.buy-ticketsfr a {
   color: #fff;
   background: #3c58f4;
   padding: 7px 22px;
   border-radius: 50px;
   border: 2px solid #3c58f4;
   transition: all ease-in-out 0.3s;
-  font-weight: 500;
+  font-weight: 900;
   margin-left: 8px;
   margin-top: 2px;
   line-height: 1;
   font-size: 13px;
 }
 
-.nav-menu li.buy-tickets a:hover {
+.nav-menu li.buy-ticketsen a {
+  color: #fff;
+  background: #131f63;
+  padding: 7px 22px;
+  border-radius: 50px;
+  border: 2px solid #131f63;
+  transition: all ease-in-out 0.3s;
+  font-weight: 900;
+  margin-left: 8px;
+  margin-top: 2px;
+  line-height: 1;
+  font-size: 13px;
+}
+
+.nav-menu li.buy-ticketsfr a:hover,
+.nav-menu li.buy-ticketsen a:hover {
   background: none;
 }
 
-.nav-menu li.buy-tickets:hover a:before,
-.nav-menu li.buy-tickets.menu-active a:before {
+.nav-menu li.buy-ticketsfr:hover a:before,
+.nav-menu li.buy-ticketsfr.menu-active a:before,
+.nav-menu li.buy-ticketsen:hover a:before,
+.nav-menu li.buy-ticketsen.menu-active a:before {
   visibility: hidden;
 }
 
